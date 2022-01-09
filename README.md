@@ -1,2 +1,2 @@
 # odin-recipes
-HTML-page to showcase what i've learnd.
+HTML-page to showcase what i've learned.
